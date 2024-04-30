@@ -9,4 +9,4 @@ extractions de données.
 Pour mesurer l’activité depuis son rachat de la marketplace, elle souhaiterait
 combiner des données issues de trois extractions : liste des commandes,
 détail de chaque commande et objectifs mensuels par catégorie de produit.
-Elle ne sait utiliser qu’Excel et ne parvient pas à combiner les extractions.
+
