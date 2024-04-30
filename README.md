@@ -10,3 +10,7 @@ Pour mesurer l’activité depuis son rachat de la marketplace, elle souhaiterai
 combiner des données issues de trois extractions : liste des commandes,
 détail de chaque commande et objectifs mensuels par catégorie de produit.
 
+
+Pour voir ma présentation : presentation_delhi_market
+
+Pour voir mon code : code_delhi_market
