@@ -11,6 +11,6 @@ combiner des données issues de trois extractions : liste des commandes,
 détail de chaque commande et objectifs mensuels par catégorie de produit.
 
 
-Pour voir ma présentation : https://github.com/MehdiBouazamour/Delhi-Market-SQL/edit/main/README.md#:~:text=code_delhi_market.sql-,presentation_delhi_market,-.pdf
+Pour voir ma présentation : presentation_delhi_market.pdf
 
-Pour voir mon code : https://github.com/MehdiBouazamour/Delhi-Market-SQL/edit/main/README.md#:~:text=README.md-,code_delhi_market,-.sql
+Pour voir mon code : code_delhi_market.sql
